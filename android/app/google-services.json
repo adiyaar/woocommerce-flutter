@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "201918651575",
+    "project_id": "revo-woo",
+    "storage_bucket": "revo-woo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201918651575:android:8b05f8577841b415f3c132",
+        "android_client_info": {
+          "package_name": "com.revo.woocommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201918651575-tb5arj0i6ej6o8pqs22n9j4oudt0lo8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.revo.woocommerce",
+            "certificate_hash": "aaa926bf8c03cf04209e539b3300923d86fc53d6"
+          }
+        },
+        {
+          "client_id": "201918651575-4sijf3vilga43nodsue3o26q9hsdgeb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGwe3WQ0AGKqOtpo_0XWlhYOJLXLgC-sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201918651575-4sijf3vilga43nodsue3o26q9hsdgeb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
